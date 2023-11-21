@@ -22,7 +22,7 @@ Para ejecutar y probar los ejercicios, asegúrate de tener instalado:
 1. Clona este repositorio en tu máquina local:
 
     ```bash
-    git clone https://github.com/SergioIzq/java-practice-playground.git
+    git clone https://github.com/SergioIzq/java-practice.git
     ```
 
 2. Abre el proyecto en tu IDE si lo estás utilizando.
