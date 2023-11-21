@@ -6,8 +6,8 @@ Este repositorio contiene una colección de ejercicios prácticos realizados com
 
 ## Estructura del Repositorio
 
-- **`/Ejercicio1`:** Descripción breve del ejercicio 1 y archivos relacionados.
-- **`/Ejercicio2`:** Descripción breve del ejercicio 2 y archivos relacionados.
+- **`/Carpeta1`:** Archivos relacionados.
+- **`/Carpeta2`:** Archivos relacionados.
 - ...
 
 ## Requisitos
